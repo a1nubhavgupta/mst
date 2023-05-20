@@ -1,2 +1,4 @@
-# mst
-project of mst
+# Mathematical Trading Strategies
+
+## Assignment 1
+
